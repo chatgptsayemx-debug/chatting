@@ -1,0 +1,7 @@
+{
+  "name": "Chats For Private",
+  "description": "A production-grade secure realtime messaging application with manual authentication, presence system, and rich chat features.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
